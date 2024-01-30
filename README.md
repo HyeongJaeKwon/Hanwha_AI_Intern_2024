@@ -1,6 +1,8 @@
-<h>
-Prompts' result is attached below:
-</h>
+
+<h2>
+ Retrieval Augmented Generation Model using chatGPT API
+ The prompts' result is attached below:
+</h2>
 
 python chatgpt.py
 
