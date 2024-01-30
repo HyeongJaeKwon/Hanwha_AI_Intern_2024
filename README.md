@@ -1,6 +1,8 @@
 
 <h2>
  Retrieval Augmented Generation Model using chatGPT API
+</h2>
+<h2>
  The prompts' result is attached below:
 </h2>
 
