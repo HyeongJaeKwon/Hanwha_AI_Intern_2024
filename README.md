@@ -4,11 +4,6 @@ Prompts' result is attached below:
 
 python chatgpt.py
 
-C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\_api\deprecation.py:189: LangChainDeprecationWarning: s deprs deprecated in LangChain 0.1.0 and will be removed in 0.2.0. Use langchain_openai.OpenAIEmbeddings instead.
-  warn_deprecated(
-C:\Users\user\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\_api\deprecation.py:189: LangChainDeprecationWarning: The class `ChatOpenAI` was deprecated in LangChain 0.1.0 and will be removed in 0.2.0. Use langchain_openai.ChatOpenAI instead.
-  warn_deprecated(
-
 Prompt: What is mentaioned as the cause for the distance between people last year?
 The cause for the distance between people last year is mentioned as COVID-19.
 
